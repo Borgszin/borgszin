@@ -44,7 +44,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Gabriel</code>, tenho 23 anos, moro em BH e estou cursando cursando Ciencias da Computação desde Outubro de 2025. Atualmente sou <code>estudante</code> nos curso de Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">Newton Paiva</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Gabriel</code>, tenho 23 anos, moro em BH e estou cursando cursando Ciencias da Computação desde Outubro de 2025. Atualmente sou <code>estudante</code> no curso de Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">Newton Paiva</a>.</i> :man_teacher:<br />
 </div>
 
 -----
